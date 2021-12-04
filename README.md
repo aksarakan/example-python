@@ -34,5 +34,5 @@ py example.py
 
 [1]: https://www.google.com
 [2]: https://aksarakan.com/document
-[3]: https://github.com/aksarakan/example-node.js/blob/master/README.md
-[4]: https://github.com/aksarakan/example-node.js/blob/master/README.id.md
+[3]: https://github.com/aksarakan/example-python/blob/master/README.md
+[4]: https://github.com/aksarakan/example-python/blob/master/README.id.md
