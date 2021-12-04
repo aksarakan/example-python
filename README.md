@@ -3,31 +3,31 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)][3]
 [![id](https://img.shields.io/badge/lang-id-red.svg)][4]
 
-This Python example for using API client for Aksarakan OCR API,
-Visit [aksarakan][1]. More information about the product and 
+Contoh penggunaan API untuk Python pada Aksarakan OCR API,
+Kunjungi [aksarakan][1], Untuk informasi lebih lanjut mengenai produk dan API.
 
-see documentation at [aksarakan documentation][2] for more technical details.
+Dokumentasi teknis dapat dilihat di [aksarakan documentation][2].
 
-## Requirement
-- Python >= 3 (tested)
+## Kebutuhan
+- Python >= 3 (dites)
 - pip
 
-## Installation
-- Clone or download this repository
+## Installasi
+- Clone or unduh repository ini
 - Install Dependency
-- Change variable accordingly
-- Run example
+- sesuaikan variable
+- Jalankan contoh
 
-### Install Dependency
+### Menginstal Dependency
 ```
 pip install requests
 ```
 
-### Change variable accordingly
-change variable {path}, {token}, {type} inside example.py accordingly
+### Sesuaikan variable
+Sesuaikan variable {path}, {token}, {type} dalam example.py
 
 ### Running example
-run following command
+jalankan command berikut
 ```
 py example.py
 ```
