@@ -1,4 +1,4 @@
-# Contoh Python API OCR KTP, NPWP
+# Python Example API OCR KTP, NPWP
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)][3]
 [![id](https://img.shields.io/badge/lang-id-red.svg)][4]
